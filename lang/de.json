@@ -1,4 +1,5 @@
 {
+    "filter_results": "Ergebnisse einschränken",
     "default": "Standard",
     "main:options": "Optionen",
     "options:data_lang": "Datensprache",

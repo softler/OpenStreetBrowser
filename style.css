@@ -169,16 +169,21 @@ body {
   float: right;
 }
 #content .category > .content,
+#content .category > form,
 #content .category > .status {
   display: none;
 }
 #content .category.open > .content,
+#content .category.open > form,
 #content .category.open > .status {
   display: block;
 }
 #content .category > .status,
 #content .category > .content > ul.overpass-layer-list {
   padding-top: 3px;
+  background: #efefef;
+}
+#content .category > form {
   background: #efefef;
 }
 
