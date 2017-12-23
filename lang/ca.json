@@ -1,5 +1,27 @@
 {
+    "category-info-tooltip": "Informació i llegenda",
+    "closed": "tancat",
+    "default": "Estàndard",
+    "error": {
+        "message": "Error",
+        "!=1": "Error"
+    },
+    "facilities": "Instal·lacions",
+    "images": "Imatges",   
     "main:options": "Opcions",
     "more": "més",
-    "save": "Guardar"
+    "open": "obert",
+    "options:data_lang": "Llengua de les Dades",
+    "options:data_lang:desc": "Moltes característiques del mapa tenen el seu nom (i altres etiquetes) traduïts a llengües diferents (p. ex. amb 'name:en', 'name:de'). Especifica quina llengua hauria de ser utilitzada per mostrar, o 'Llengua Local' de manera que sempre el valor no traduït (p. ex. 'name') serà utilitzat",
+    "options:data_lang:local": "Llengua Local",
+    "options:overpassUrl": "Adreça URL OverpassAPI",
+    "options:preferredBaseMap": "Mapa de fons preferit",
+    "options:ui_lang": "Llengua de l'Aplicació",
+    "options:ui_lang": "Llengua de l'Aplicació",
+    "save": "Salva",
+    "show details": "Mostra els detalls",
+    "toggle_fullscreen": "(Des-) activar el mode de pantalla completa",
+    "unknown": "desconegut",
+    "unnamed": "Sense nom",
+    "wikipedia:no-url-parse": "No sa trobat el terme a Wikipedia"
 }
