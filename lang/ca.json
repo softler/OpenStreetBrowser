@@ -1,5 +1,9 @@
 {
     "main:options": "Opcions",
-    "more": "més",
-    "save": "Guardar"
+    "options:data_lang": "Llengua de les Dades",
+     "options:data_lang:desc": "Moltes característiques del mapa tenen el seu nom (i altre tags) traduits a llengues diferents (p. ex. amb 'name:en', 'name:de'). Especifica quina llengua hauria de ser utilitzada per mostrar, o 'Llengua Local' de manera que sempre el valor no traduit (p. ex. 'name') serà utilitzat",
+     "options:data_lang:local": "Llengua Local",
+-    "options:ui_lang": "Llengua d'Interfície"
++    "options:ui_lang": "Llengua d'Interfície",
++    "save": "Salva"
 }
