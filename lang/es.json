@@ -1,8 +1,27 @@
 {
+    "category-info-tooltip": "Información y leyenda",
+    "closed": "cerrado",
+    "default": "Estándard",
+    "error": {
+        "message": "Error",
+        "!=1": "Error"
+    },
+    "facilities": "Instalaciones",
+    "images": "Imagenes",   
     "main:options": "Opciones",
     "more": "más",
-    "options:data_lang": "Idioma de datos",
-    "options:data_lang:local": "Idioma local",
-    "options:ui_lang": "Idioma de interfaz",
-    "save": "Guardar"
+    "open": "abierto",
+    "options:data_lang": "Lengua de los Datoss",
+    "options:data_lang:desc": "Muchas caracteristicas del mapa tienen su nombre (y otras etiquetas) traducidos a lenguas diferentes (p. ej. con 'name:en', 'name:de'). Especifica que lengua habría de ser utilizada para mostrar, o 'Lengua Local' de manera que siempre el valor no traducido (p. ej. 'name') será utilitado",
+    "options:data_lang:local": "Lengua Local",
+    "options:overpassUrl": "Dirección URL OverpassAPI",
+    "options:preferredBaseMap": "Mapa de fondo preferido",
+    "options:ui_lang": "Lengua de la Aplicación",
+    "options:ui_lang": "Lengua de la Aplicación",
+    "save": "Guarda",
+    "show details": "Muestra los detalles",
+    "toggle_fullscreen": "(Des-) activar el modo de pantalla completa",
+    "unknown": "desconocido",
+    "unnamed": "Sin nombre",
+    "wikipedia:no-url-parse": "No se ha encontrado el termino en la  Wikipedia"
 }
